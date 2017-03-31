@@ -1,0 +1,137 @@
+{
+  "code": 200,
+  "data": {
+    "客户关系管理": {
+      "text": "客户关系管理",
+      "children": {
+        "查询业务": {
+          "text": "查询业务",
+          "children": {
+            "人车查询": {
+              "text": "人车查询",
+              "url": "/search/customer-car"
+            }
+          }
+        }
+      }
+    },
+    "客服投诉工单": {
+      "text": "客服投诉工单",
+      "children": {
+        "投诉业务": {
+          "text": "投诉业务",
+          "children": {
+            "投诉管理": {
+              "text": "投诉管理",
+              "url": "/complaint/management"
+            },
+            "投诉单分配": {
+              "text": "投诉单分配",
+              "url": "/complaint/complaint-form"
+            },
+            "投诉延迟申请": {
+              "text": "投诉延迟申请",
+              "url": "/complaint/complaint-delayed-application"
+            },
+            "批复4S店延迟申请": {
+              "text": "批复4S店延迟申请",
+              "url": "/complaint/reply-4s-delay-apply"
+            },
+            "投诉单查询": {
+              "text": "投诉单查询",
+              "url": "/complaint/complaint-query"
+            },
+            "申请延迟情况查询": {
+              "text": "申请延迟情况查询",
+              "url": "/complaint/apply-delay-condition"
+            },
+            "投诉统计分析": {
+              "text": "投诉统计分析",
+              "url": "/complaint/complaint-count"
+            },
+            "投诉单响应情况查询": {
+              "text": "投诉单响应情况查询",
+              "url": "/complaint/complaint-respond"
+            },
+            "投诉处理满意度查询": {
+              "text": "投诉处理满意度查询",
+              "url": "/complaint/complaint-satisfaction"
+            }
+          }
+        },
+        "理赔业务": {
+          "text": "理赔业务",
+          "children": {
+            "理赔审核": {
+              "text": "理赔审核",
+              "url": "/compensate/compensate-review"
+            },
+            "理赔工时排名": {
+              "text": "理赔工时排名",
+              "url": "/compensate/compensate-work"
+            },
+            "理赔配件排名": {
+              "text": "理赔配件排名",
+              "url": "/compensate/compensate-part"
+            },
+            "理赔明细表": {
+              "text": "理赔明细表",
+              "url": "/compensate/compensate-list"
+            },
+            "理赔汇总表": {
+              "text": "理赔汇总表",
+              "url": "/compensate/compensate-summary"
+            },
+            "理赔历史查询": {
+              "text": "理赔历史查询",
+              "url": "/compensate/compensate-history"
+            },
+            "理赔保养结算进度表": {
+              "text": "理赔保养结算进度表",
+              "url": "/compensate/compensate-maintain"
+            },
+            "理赔保养款明细表": {
+              "text": "理赔保养款明细表",
+              "url": "/compensate/maintenance-claims"
+            },
+            "异常理赔保养查询": {
+              "text": "异常理赔保养查询",
+              "url": "/compensate/unusual-claim"
+            }
+          }
+        },
+        "保养业务": {
+          "text": "保养业务",
+          "children": {
+            "车辆保养历史查询": {
+              "text": "车辆保养历史查询",
+              "url": "/maintenance/vehicle-maintenance-history"
+            }
+          }
+        },
+
+        "基本资料": {
+          "text": "基本资料",
+          "children": {
+            "车辆维修历史": {
+              "text": "车辆维修历史",
+              "url": "/basicinfor/vehicle-repair-history"
+            },
+            "4s店投诉历史": {
+              "text": "4s店投诉历史",
+              "url": "/basicinfor/4s-complaint-history"
+            },
+            "服务店档案": {
+              "text": "服务店档案",
+              "url": "/basicinfor/services-archive"
+            },
+            "客户档案": {
+              "text": "客户档案",
+              "url": "/basicinfor/customer-profiles"
+            }
+          }
+        }
+      }
+    }
+  }
+}
