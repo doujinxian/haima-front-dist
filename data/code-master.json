@@ -187,36 +187,36 @@
     "value": "否",
     "sort": 2
   }],
-  "way": [{
-    "code": "1",
+  "statisticsType": [{
+    "code": "st_ct",
     "value": "按投诉类型",
     "sort": 1
   }, {
-    "code": "2",
+    "code": "st_sss",
     "value": "按销售服务店（服务）",
     "sort": 2
   }, {
-    "code": "3",
+    "code": "st_ca",
     "value": "按投诉管理员",
     "sort": 3
   },{
-    "code": "4",
+    "code": "st_cct",
     "value": "按关闭情况",
     "sort": 1
   }, {
-    "code": "5",
+    "code": "st_oct",
     "value": "按单一投诉类型",
     "sort": 2
   }, {
-    "code": "6",
+    "code": "st_cc",
     "value": "按投诉总量",
     "sort": 3
   }, {
-    "code": "7",
+    "code": "st_v",
     "value": "按车型 ",
     "sort": 2
   }, {
-    "code": "8",
+    "code": "st_cb",
     "value": "按所属基地",
     "sort": 3
   }],
@@ -1177,24 +1177,24 @@
     "sort": 2
   }],
   "complaint_type": [{
-    "code": "服务类",
-    "value": "服务类",
+    "code": "1",
+    "value": "咨询",
     "sort": 1
   }, {
-    "code": "技术质量类",
-    "value": "技术质量类",
+    "code": "2",
+    "value": "投诉",
     "sort": 2
   }, {
-    "code": "配件类",
-    "value": "配件类",
+    "code": "3",
+    "value": "建议",
     "sort": 3
   }, {
-    "code": "其他",
-    "value": "其他",
+    "code": "4",
+    "value": "救援",
     "sort": 4
   }, {
-    "code": "销售类",
-    "value": "销售类",
+    "code": "5",
+    "value": "其他",
     "sort": 5
   }],
   "opinion_type": [{
