@@ -202,23 +202,52 @@
   },{
     "code": "st_cct",
     "value": "按关闭情况",
-    "sort": 1
+    "sort": 4
   }, {
     "code": "st_oct",
     "value": "按单一投诉类型",
-    "sort": 2
+    "sort": 5
   }, {
     "code": "st_cc",
     "value": "按投诉总量",
-    "sort": 3
+    "sort": 6
   }, {
     "code": "st_v",
     "value": "按车型 ",
-    "sort": 2
+    "sort": 7
   }, {
     "code": "st_cb",
     "value": "按所属基地",
+    "sort": 8
+  }],
+  "satisfactionStatisticsType": [{
+    "code": "st_ac",
+    "value": "全国",
+    "sort": 1
+  }, {
+    "code": "st_sss",
+    "value": "按销售服务店（服务）",
+    "sort": 2
+  }, {
+    "code": "st_ca",
+    "value": "按投诉管理员",
     "sort": 3
+  },{
+    "code": "st_cs",
+    "value": "投诉来源",
+    "sort": 4
+  }, {
+    "code": "st_ct",
+    "value": "投诉类型",
+    "sort": 5
+  }, {
+    "code": "st_isDelay",
+    "value": "是否延迟申请",
+    "sort": 6
+  }, {
+    "code": "st_cb",
+    "value": "按所属基地",
+    "sort": 7
   }],
   "satisfied": [{
     "code": "1",
