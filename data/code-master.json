@@ -37,25 +37,29 @@
     "sort": 9
   }],
    "customLevel": [{
-    "code": "1",
+    "code": "教师",
     "value": "教师",
     "sort": 1
   }, {
-    "code": "2",
+    "code": "公务员",
     "value": "公务员",
     "sort": 2
   }, {
-    "code": "3",
+    "code": "公司职员",
     "value": "公司职员",
     "sort": 3
   }, {
-    "code": "4",
+    "code": "个体运营者",
     "value": "个体运营者",
     "sort": 4
   }, {
-    "code": "5",
+    "code": "自由工作者",
     "value": "自由工作者",
     "sort": 5
+  }, {
+    "code": "其他",
+    "value": "其他",
+    "sort": 10000
   }],
   "other": [{
     "code": "1",
