@@ -2873,10 +2873,6 @@
     "value": "已分配",
     "sort": 1
   }, {
-    "code": "",
-    "value": "全部",
-    "sort": 2
-  }, {
     "code": "0",
     "value": "未分配",
     "sort": 3
