@@ -79,6 +79,28 @@
     "value": "不通过",
     "sort": 3
   }],
+  "forward_status": [{
+    "code": "0",
+    "value": "未转发",
+    "sort": 2
+  }, {
+    "code": "1",
+    "value": "已转发",
+    "sort": 3
+  }],
+  "delay_status": [{
+    "code": "0",
+    "value": "未延迟",
+    "sort": 2
+  }, {
+    "code": "1",
+    "value": "未批复",
+    "sort": 3
+  }, {
+    "code": "2",
+    "value": "已批复",
+    "sort": 3
+  }],
   "list": [{
     "code": "1",
     "value": "Z",
@@ -293,12 +315,12 @@
     "sort": 2
   }],
   "level": [{
-    "code": "一般",
+    "code": "0",
     "value": "一般",
     "sort": 1
   }, {
-    "code": "2",
-    "value": "严重",
+    "code": "1",
+    "value": "重大",
     "sort": 2
   }],
   "state": [{
